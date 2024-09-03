@@ -23,4 +23,5 @@ How to Use
 Add a Task: Enter a task in the input field and optionally include a date.
 Complete a Task: Click on a task to mark it as completed, which will apply a strikethrough effect.
 View Tasks: Scroll through your list to see all tasks, organized by the date associated with them.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9c74c5e0-a265-461b-8c59-ae9187bfed95)
+
